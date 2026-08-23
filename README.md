@@ -70,7 +70,7 @@
 
 <!-- 🏆 Trophies -->
 
-<img src="./iwilltellr-trophies.svg?v=1" alt="GitHub Trophies" width="95%"/>
+<img src="./iwilltell-trophies.svg?v=1" alt="GitHub Trophies" width="95%"/>
 
 <br/><br/>
 
