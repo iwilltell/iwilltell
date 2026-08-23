@@ -3,9 +3,9 @@
 <!-- ✨ Animated Banner ✨ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./wibhor-banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./wibhor-banner-light.svg?v=1">
-  <img src="./wibhor-banner.svg?v=1" alt="Wibhor Roy — Data Science & ML Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./iwilltell-banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./iwilltell-banner-light.svg?v=1">
+  <img src="./iwilltell-banner.svg?v=1" alt="Wibhor Roy — Data Science & ML Developer" width="100%"/>
 </picture>
 
 </div>
@@ -19,7 +19,7 @@
 
 <!-- 🪪 Swinging Lanyard ID Card -->
 
-<img src="./wibhor-lanyard.svg?v=1" alt="Wibhor Roy ID badge" width="330"/>
+<img src="./iwilltell-lanyard.svg?v=1" alt="Wibhor Roy ID badge" width="330"/>
 
 </td>
 
@@ -50,9 +50,9 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./wibhor-stats.svg?v=1" alt="GitHub Stats" height="185"/>
+<img src="./iwilltell-stats.svg?v=1" alt="GitHub Stats" height="185"/>
 
-<img src="./wibhor-langs.svg?v=1" alt="Top Languages" height="185"/>
+<img src="./iwilltell-langs.svg?v=1" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -70,7 +70,7 @@
 
 <!-- 🏆 Trophies -->
 
-<img src="./wibhor-trophies.svg?v=1" alt="GitHub Trophies" width="95%"/>
+<img src="./iwilltellr-trophies.svg?v=1" alt="GitHub Trophies" width="95%"/>
 
 <br/><br/>
 
